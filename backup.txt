@@ -1,0 +1,5 @@
+Patients:
+Patient ID: 1, Name: rohit, Age: 23, Contact: 8734561256, Diagnosis: suger
+Patient ID: 2, Name: ajay, Age: 33, Contact: 64749393748, Diagnosis: eye pain
+
+Staff:
